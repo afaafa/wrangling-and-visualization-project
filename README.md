@@ -66,7 +66,6 @@ Link Tableau : https://public.tableau.com/app/profile/fathonah.zuchriyah/viz/vis
 Manajer Tim Marketing e-Bay Kleinanzeigen
 
 ## J. Link
-* LinkedIn : https://www.linkedin.com/in/fathonah-zuchriyah/
 * Youtube :
 * Medium : https://medium.com/@afhazachra/data-wrangling-and-visualization-project-analisis-jenis-kendaraan-yang-cepat-laku-di-pasar-8dfa05889098
-* Github : https://github.com/afaafa/wrangling-and-visualization-project
+* LinkedIn : https://www.linkedin.com/in/fathonah-zuchriyah/
