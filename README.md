@@ -18,15 +18,18 @@ Ebay Kleinanzeigen merupakan platform online yang populer untuk jual-beli barang
 * Berapa harga rata-rata kendaraan menurut merk/brand dan jenis kendaraan?
 * Tipe kendaraan apa yang cepat terjual jika melihat jumlah hari dari iklan dipasang?
 
-## C. Goals/Tujuan
+## C. Stakeholder
+
+Manajer Tim Marketing e-Bay Kleinanzeigen
+
+## D. Goals/Tujuan
 
 meningkatkan layanan iklan dan kepuasan pengguna dalam jual beli kendaraan mobil di platform e-Bay.
 
-## D. Dataset
+## E. Dataset
 
 Dataset yang akan digunakan ini memiliki lebih dari 370.000 mobil bekas dari Ebay-Kleinanzeigen.
-
-Berikut link dataset yang digunakan : https://data.world/data-society/used-cars-data
+Link dataset yang digunakan diambil dari : https://data.world/data-society/used-cars-data
 
 1. Deskripsi Dataset
 - dateCrawled : saat iklan ini pertama kali diunggah, semua nilai bidang diambil dari tanggal ini
@@ -50,14 +53,13 @@ Berikut link dataset yang digunakan : https://data.world/data-society/used-cars-
 - postalCode : kode pos
 - lastSeenOnline: kapan crawler melihat iklan ini terakhir kali online
 
-## E. Dashboard Visualisasi
+## F. Dashboard Hasil Visualisasi
 
-Visualisasi yang dibuat menggunakan Tableau
+Visualisasi yang dibuat menggunakan Tableau Public
 
-Link Tableau : https://public.tableau.com/app/profile/fathonah.zuchriyah/viz/visualisationproject_17118645651070/Dashboard2#1
+Berikut link hasil visualisasi : https://public.tableau.com/app/profile/fathonah.zuchriyah/viz/visualisationproject_17118645651070/Dashboard2#1
 
-
-## F. Analisis
+## G. Hasil Analisis
 
 * Analisis 1
   trend tahun registrasi pada jenis kendaraan
@@ -89,7 +91,7 @@ Link Tableau : https://public.tableau.com/app/profile/fathonah.zuchriyah/viz/vis
   Dari visualisasi tersebut, dapat dilihat distribusi jumlah hari iklan kendaraan yang dipasang untuk dijual, sebelum kendaraan tersebut terjual.
   dimana analisis yang dipilih berdasarkan brand.
 
-## G. Kesimpulan
+## H. Kesimpulan
 
 * Analisis 1
  tahun 1980-2016 adalah tahun untuk dapat dilakukan penjualan kendaraan. Pada tahun 2000 menjadi tahun tertinggi dengan total  kendaraan 6.760 unit.
@@ -115,7 +117,7 @@ Link Tableau : https://public.tableau.com/app/profile/fathonah.zuchriyah/viz/vis
 * Analisis 8
   Berdasarkan total hari iklan terpasang, dapat ditemukan bahwa jenis kendaraan berdasarkan brand yang terjual cepat secara online dibandingkan yang lain.
 
-## H. Rekomendasi
+## I. Rekomendasi
 
 Rekomendasi yang tepat untuk manajer tim pemasaran berdasarkan temuan bahwa jenis kendaraan berdasarkan merek yang terjual cepat secara online adalah sebagai berikut:
 
@@ -130,9 +132,6 @@ Kolaborasi dengan Pihak Eksternal: bisa melalui kemitraan iklan atau kampanye ga
 4. Personalisasi Konten: Lebih lanjut personalisasikan konten pemasaran untuk target audiens yang cenderung membeli merek kendaraan tertentu. Ini bisa melibatkan penggunaan data pelanggan untuk menyesuaikan pesan iklan.
 
 Dengan menerapkan rekomendasi ini, manajer tim pemasaran dapat memanfaatkan temuan tentang merek kendaraan yang terjual cepat secara online untuk meningkatkan kinerja keseluruhan kampanye pemasaran mereka.
-
-## I. Stakeholder
-Manajer Tim Marketing e-Bay Kleinanzeigen
 
 ## J. Link
 * LinkedIn : https://www.linkedin.com/in/fathonah-zuchriyah/
