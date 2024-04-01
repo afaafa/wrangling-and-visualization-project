@@ -136,5 +136,5 @@ Manajer Tim Marketing e-Bay Kleinanzeigen
 
 ## J. Link
 * LinkedIn : https://www.linkedin.com/in/fathonah-zuchriyah/
-* Youtube :
+* Youtube : https://youtu.be/TCYRS5VLMUg
 * Medium : https://medium.com/@afhazachra/data-wrangling-and-visualization-project-analisis-jenis-kendaraan-yang-cepat-laku-di-pasar-8dfa05889098
