@@ -45,6 +45,7 @@ Berikut link dataset yang digunakan : https://data.world/data-society/used-cars-
 - fuelType : jenis bahan bakar yang digunakan
 - brand: merek kendaraan
 - notRepairedDamage : jika mobil mengalami kerusakan yang belum diperbaiki
+- dateCreated : tanggal pembuatan iklan
 - nrOfPicture : jumlah gambar dalam iklan
 - postalCode : kode pos
 - lastSeenOnline: kapan crawler melihat iklan ini terakhir kali online
